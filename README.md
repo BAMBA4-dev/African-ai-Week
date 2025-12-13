@@ -1,6 +1,6 @@
  # 🌍 African AI Innovation Week 2025
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/VOTRE-ID/deploy-status)](https://app.netlify.com/sites/VOTRE-SITE/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/693d5aef8d78394efa1a4b46/deploy-status)](https://app.netlify.com/sites/VOTRE-SITE/deploys)
 
 Landing page professionnelle pour l'événement panafricain **African AI Innovation Week** - Du 15 au 21 Decembre 2025 à Dakar, Sénégal.
 
@@ -153,5 +153,6 @@ Ce projet est un exemple éducatif libre d'utilisation.
 ---
 
 **Développé avec ❤️ pour l'innovation africaine**
+
 
 © 2025 African AI Innovation Week. Tous droits réservés.
